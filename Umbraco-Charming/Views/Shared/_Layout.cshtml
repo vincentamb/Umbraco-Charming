@@ -1,0 +1,48 @@
+﻿@inherits Umbraco.Web.Mvc.UmbracoTemplatePage
+@{
+    Layout = null;
+}
+
+@* the fun starts here *@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>charming</title>
+
+
+    <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css'>
+
+    <link rel="stylesheet" href="/css/style.css">
+    @Styles.Render("~/Content/css")
+
+
+</head>
+
+@RenderBody()
+
+<body>
+    <div class="container">
+        <div class="btn btn-default pull-right">English</div>
+        <div class="btn btn-default pull-right">Espanol</div>
+        <h1 class="text-center">English, a little more charming!</h1>
+        <div class="content">
+            <div class="today">
+                <h3>@Umbraco.AssignedContentItem.GetPropertyValue("sentence")</h3>
+            </div>
+            <div class="letsgo">
+                <button class="btn">@Umbraco.GetDictionaryValue("button1")</button>
+            </div>
+            <div class="charm">
+                <h3>@Umbraco.AssignedContentItem.GetPropertyValue("charming")</h3>
+            </div>
+            <div class="button">
+                <button class="btn">@Umbraco.GetDictionaryValue("button2")</button>
+            </div>
+
+            @Scripts.Render("~/bundles/jquery")
+
+
+</body>
+</html>

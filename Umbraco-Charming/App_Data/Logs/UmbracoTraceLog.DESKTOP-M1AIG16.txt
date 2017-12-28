@@ -1,0 +1,373 @@
+﻿ 2017-12-28 10:44:11,609 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Terminating
+ 2017-12-28 10:44:11,610 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Waiting for tasks to complete
+ 2017-12-28 10:44:11,618 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Terminating
+ 2017-12-28 10:44:11,619 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Waiting for tasks to complete
+ 2017-12-28 10:44:11,625 [P9068/D4/T88] INFO  Umbraco.Core.MainDom - Stopping...
+ 2017-12-28 10:44:11,632 [P9068/D4/T76] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [Umbraco.Web.Scheduling.IBackgroundTask] Tasks completed, terminated
+ 2017-12-28 10:44:11,632 [P9068/D4/T52] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledPublishing] Tasks completed, terminated
+ 2017-12-28 10:44:11,633 [P9068/D4/T88] INFO  Umbraco.Core.MainDom - Released MainDom.
+ 2017-12-28 10:44:11,641 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Terminating
+ 2017-12-28 10:44:11,642 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Waiting for tasks to complete
+ 2017-12-28 10:44:11,642 [P9068/D4/T87] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [ScheduledTasks] Tasks completed, terminated
+ 2017-12-28 10:44:11,657 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Terminating
+ 2017-12-28 10:44:11,658 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Waiting for tasks to complete
+ 2017-12-28 10:44:11,658 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Terminating
+ 2017-12-28 10:44:11,659 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Waiting for tasks to complete
+ 2017-12-28 10:44:11,659 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [HealthCheckNotifier] Terminating
+ 2017-12-28 10:44:11,660 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [HealthCheckNotifier] Waiting for tasks to complete
+ 2017-12-28 10:44:11,658 [P9068/D4/T70] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [LogScrubber] Tasks completed, terminated
+ 2017-12-28 10:44:11,659 [P9068/D4/T73] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [KeepAlive] Tasks completed, terminated
+ 2017-12-28 10:44:11,660 [P9068/D4/T88] INFO  Umbraco.Web.Scheduling.BackgroundTaskRunner - [HealthCheckNotifier] Tasks completed, terminated
+ 2017-12-28 10:44:20,694 [P9068/D5/T295] INFO  Umbraco.Core.CoreBootManager - Umbraco 7.7.7 application starting on DESKTOP-M1AIG16
+ 2017-12-28 10:44:20,743 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Determining hash of code files on disk
+ 2017-12-28 10:44:20,767 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Hash determined (took 23ms)
+ 2017-12-28 10:44:20,853 [P9068/D5/T295] INFO  Umbraco.Core.MainDom - Acquiring MainDom...
+ 2017-12-28 10:44:20,856 [P9068/D5/T295] INFO  Umbraco.Core.MainDom - Acquired MainDom.
+ 2017-12-28 10:44:20,860 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:20,976 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 116ms)
+ 2017-12-28 10:44:20,977 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IApplicationStartupHandler
+ 2017-12-28 10:44:20,979 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IApplicationStartupHandler (took 2ms)
+ 2017-12-28 10:44:21,016 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:21,017 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
+ 2017-12-28 10:44:21,018 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter
+ 2017-12-28 10:44:21,018 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyEditorValueConverter (took 0ms)
+ 2017-12-28 10:44:21,019 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:21,019 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-12-28 10:44:21,020 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IPropertyValueConverter
+ 2017-12-28 10:44:21,023 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IPropertyValueConverter (took 3ms)
+ 2017-12-28 10:44:21,045 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:21,046 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-12-28 10:44:21,046 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Mvc.SurfaceController
+ 2017-12-28 10:44:21,047 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Mvc.SurfaceController (took 0ms)
+ 2017-12-28 10:44:21,047 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:21,047 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-12-28 10:44:21,048 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.WebApi.UmbracoApiController
+ 2017-12-28 10:44:21,050 [P9068/D5/T295] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.WebApi.UmbracoApiController (took 2ms)
+ 2017-12-28 10:44:24,299 [P9068/D5/T295] INFO  Umbraco.Core.DatabaseContext - CanConnect = True
+ 2017-12-28 10:44:24,942 [P9068/D5/T295] INFO  Umbraco.Web.Cache.CacheRefresherEventHandler - Initializing Umbraco internal event handlers for cache refreshing
+ 2017-12-28 10:44:25,577 [P9068/D5/T295] INFO  Umbraco.Web.Search.ExamineEvents - Initializing Examine and binding to business logic events
+ 2017-12-28 10:44:25,579 [P9068/D5/T295] INFO  Umbraco.Web.Search.ExamineEvents - Adding examine event handlers for index providers: 3
+ 2017-12-28 10:44:25,743 [P9068/D5/T295] INFO  Umbraco.Core.CoreBootManager - Umbraco application startup complete (took 5299ms)
+ 2017-12-28 10:44:26,571 [P9068/D5/T79] INFO  Umbraco.Core.Sync.ApplicationUrlHelper - ApplicationUrl: http://umbracoch.web.local:80/umbraco (UmbracoModule request)
+ 2017-12-28 10:44:27,174 [P9068/D5/T79] INFO  umbraco.content - Load Xml from file...
+ 2017-12-28 10:44:27,200 [P9068/D5/T79] INFO  umbraco.content - Loaded Xml from file.
+ 2017-12-28 10:44:28,403 [P9068/D5/T79] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:28,404 [P9068/D5/T79] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-12-28 10:44:28,404 [P9068/D5/T79] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Core.PropertyEditors.IParameterEditor
+ 2017-12-28 10:44:28,405 [P9068/D5/T79] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Core.PropertyEditors.IParameterEditor (took 1ms)
+ 2017-12-28 10:44:29,448 [P9068/D5/T79] WARN  Umbraco.Web.Mvc.RenderRouteHandler - The current Document Type home matches a locally declared controller of type Umbraco_Charming.Controllers.HomeController. Custom Controllers for Umbraco routing must implement 'Umbraco.Web.Mvc.IRenderController' and inherit from 'System.Web.Mvc.ControllerBase'.
+ 2017-12-28 10:44:35,286 [P9068/D5/T41] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:35,286 [P9068/D5/T41] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-12-28 10:44:35,287 [P9068/D5/T41] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController
+ 2017-12-28 10:44:35,288 [P9068/D5/T41] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController (took 1ms)
+ 2017-12-28 10:44:35,536 [P9068/D5/T79] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:35,536 [P9068/D5/T79] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-12-28 10:44:35,537 [P9068/D5/T79] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IAction
+ 2017-12-28 10:44:35,538 [P9068/D5/T79] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IAction (took 1ms)
+ 2017-12-28 10:44:41,734 [P9068/D4/T73] INFO  Umbraco.Core.UmbracoApplicationBase - Application shutdown. Details: BinDirChangeOrDirectoryRename
+
+_shutDownMessage=Change Notification for critical directories.
+bin dir change or directory rename
+HostingEnvironment initiated shutdown
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+Change Notification for critical directories.
+bin dir change or directory rename
+HostingEnvironment caused shutdown
+
+_shutDownStack=   at System.Environment.GetStackTrace(Exception e, Boolean needFileInfo)
+   at System.Environment.get_StackTrace()
+   at System.Web.Hosting.HostingEnvironment.InitiateShutdownInternal()
+   at System.Web.Hosting.HostingEnvironment.InitiateShutdownWithoutDemand()
+   at System.Web.HttpRuntime.ShutdownAppDomain(String stackTrace)
+   at System.Web.HttpRuntime.OnCriticalDirectoryChange(Object sender, FileChangeEvent e)
+   at System.Web.FileChangesMonitor.OnCriticaldirChange(Object sender, FileChangeEvent e)
+   at System.Web.DirectoryMonitor.FireNotifications()
+   at System.Web.Util.WorkItem.CallCallbackWithAssert(WorkItemCallback callback)
+   at System.Web.Util.WorkItem.OnQueueUserWorkItemCompletion(Object state)
+   at System.Threading.ExecutionContext.RunInternal(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.ExecutionContext.Run(ExecutionContext executionContext, ContextCallback callback, Object state, Boolean preserveSyncCtx)
+   at System.Threading.QueueUserWorkItemCallback.System.Threading.IThreadPoolWorkItem.ExecuteWorkItem()
+   at System.Threading.ThreadPoolWorkQueue.Dispatch()
+ 2017-12-28 10:44:48,073 [P9068/D5/T87] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: Login attempt succeeded for username vincyekm@gmail.com from IP address 127.0.0.1
+ 2017-12-28 10:44:48,088 [P9068/D5/T87] INFO  Umbraco.Core.Security.BackOfficeSignInManager - Event Id: 0, state: User: vincyekm@gmail.com logged in from IP address 127.0.0.1
+ 2017-12-28 10:44:49,075 [P9068/D5/T88] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:49,075 [P9068/D5/T88] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-12-28 10:44:49,075 [P9068/D5/T88] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.ITree
+ 2017-12-28 10:44:49,077 [P9068/D5/T88] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.ITree (took 1ms)
+ 2017-12-28 10:44:49,116 [P9068/D5/T88] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:49,116 [P9068/D5/T88] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-12-28 10:44:49,116 [P9068/D5/T88] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController
+ 2017-12-28 10:44:49,116 [P9068/D5/T88] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Web.Trees.TreeAttribute]Umbraco.Web.Trees.TreeController (took 0ms)
+ 2017-12-28 10:44:49,124 [P9068/D5/T88] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:49,124 [P9068/D5/T88] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-12-28 10:44:49,125 [P9068/D5/T88] INFO  Umbraco.Core.PluginManager - Resolving [umbraco.businesslogic.TreeAttribute]umbraco.interfaces.ITree
+ 2017-12-28 10:44:49,125 [P9068/D5/T88] INFO  Umbraco.Core.PluginManager - Resolved [umbraco.businesslogic.TreeAttribute]umbraco.interfaces.ITree (took 0ms)
+ 2017-12-28 10:44:49,312 [P9068/D5/T84] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:49,313 [P9068/D5/T84] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-12-28 10:44:49,313 [P9068/D5/T84] INFO  Umbraco.Core.PluginManager - Resolving [umbraco.businesslogic.ApplicationAttribute]umbraco.interfaces.IApplication
+ 2017-12-28 10:44:49,314 [P9068/D5/T84] INFO  Umbraco.Core.PluginManager - Resolved [umbraco.businesslogic.ApplicationAttribute]umbraco.interfaces.IApplication (took 1ms)
+ 2017-12-28 10:44:49,338 [P9068/D5/T51] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:44:49,339 [P9068/D5/T51] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-12-28 10:44:49,340 [P9068/D5/T51] INFO  Umbraco.Core.PluginManager - Resolving [Umbraco.Core.Persistence.Mappers.MapperForAttribute]Umbraco.Core.Persistence.Mappers.BaseMapper
+ 2017-12-28 10:44:49,341 [P9068/D5/T51] INFO  Umbraco.Core.PluginManager - Resolved [Umbraco.Core.Persistence.Mappers.MapperForAttribute]Umbraco.Core.Persistence.Mappers.BaseMapper (took 1ms)
+ 2017-12-28 10:45:27,407 [P9068/D5/T78] INFO  umbraco.BusinessLogic.Log - Log scrubbed.  Removed all items older than 2017-12-27 10:45:27
+ 2017-12-28 10:48:02,760 [P9068/D5/T64] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:48:02,761 [P9068/D5/T64] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 1ms)
+ 2017-12-28 10:48:02,761 [P9068/D5/T64] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.ICacheRefresher
+ 2017-12-28 10:48:02,763 [P9068/D5/T64] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.ICacheRefresher (took 1ms)
+ 2017-12-28 10:48:43,007 [P9068/D5/T79] INFO  Umbraco.Core.PluginManager - Resolving umbraco.interfaces.IDiscoverable
+ 2017-12-28 10:48:43,008 [P9068/D5/T79] INFO  Umbraco.Core.PluginManager - Resolved umbraco.interfaces.IDiscoverable (took 0ms)
+ 2017-12-28 10:48:43,008 [P9068/D5/T79] INFO  Umbraco.Core.PluginManager - Resolving Umbraco.Web.Editors.IEditorValidator
+ 2017-12-28 10:48:43,020 [P9068/D5/T79] INFO  Umbraco.Core.PluginManager - Resolved Umbraco.Web.Editors.IEditorValidator (took 11ms)
+ 2017-12-28 10:56:46,583 [P9068/D5/T88] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 10:56:56,639 [P9068/D5/T92] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 10:57:50,830 [P9068/D5/T78] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 10:58:20,854 [P9068/D5/T92] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 10:58:20,856 [P9068/D5/T127] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 10:58:25,120 [P9068/D5/T289] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:05:42,645 [P9068/D5/T79] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'sentence' with Id '0' has been published.
+ 2017-12-28 11:05:47,951 [P9068/D5/T284] INFO  umbraco.content - Save Xml to file...
+ 2017-12-28 11:05:47,960 [P9068/D5/T284] INFO  umbraco.content - Saved Xml to file.
+ 2017-12-28 11:06:18,852 [P9068/D5/T92] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'sentence' with Id '1151' has been published.
+ 2017-12-28 11:06:23,442 [P9068/D5/T284] INFO  umbraco.content - Save Xml to file...
+ 2017-12-28 11:06:23,447 [P9068/D5/T284] INFO  umbraco.content - Saved Xml to file.
+ 2017-12-28 11:07:35,933 [P9068/D5/T76] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'charming' with Id '0' has been published.
+ 2017-12-28 11:07:40,409 [P9068/D5/T41] INFO  umbraco.content - Save Xml to file...
+ 2017-12-28 11:07:40,413 [P9068/D5/T41] INFO  umbraco.content - Saved Xml to file.
+ 2017-12-28 11:08:48,136 [P9068/D5/T84] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:09:07,968 [P9068/D5/T41] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:14:36,945 [P9068/D5/T79] WARN  Umbraco.Web.UmbracoModule - Status code is 404 yet TrySkipIisCustomErrors is false - IIS will take over.
+ 2017-12-28 11:15:38,304 [P9068/D5/T284] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:20:11,114 [P9068/D5/T52] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:20:43,949 [P9068/D5/T51] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:21:38,854 [P9068/D5/T79] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:21:46,012 [P9068/D5/T51] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:23:40,484 [P9068/D5/T284] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:24:36,329 [P9068/D5/T81] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:25:14,590 [P9068/D5/T111] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:25:28,949 [P9068/D5/T120] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'sentence' with Id '1151' has been published.
+ 2017-12-28 11:25:33,306 [P9068/D5/T35] INFO  umbraco.content - Save Xml to file...
+ 2017-12-28 11:25:33,312 [P9068/D5/T35] INFO  umbraco.content - Saved Xml to file.
+ 2017-12-28 11:25:34,810 [P9068/D5/T111] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'charming' with Id '1152' has been published.
+ 2017-12-28 11:25:37,849 [P9068/D5/T120] WARN  Umbraco.Web.UmbracoModule - Status code is 404 yet TrySkipIisCustomErrors is false - IIS will take over.
+ 2017-12-28 11:25:39,206 [P9068/D5/T104] INFO  umbraco.content - Save Xml to file...
+ 2017-12-28 11:25:39,208 [P9068/D5/T104] INFO  umbraco.content - Saved Xml to file.
+ 2017-12-28 11:25:53,232 [P9068/D5/T284] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:26:02,675 [P9068/D5/T103] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:26:08,563 [P9068/D5/T138] WARN  Umbraco.Web.Models.Mapping.PreValueDisplayResolver - Could not find persisted pre-value for field maxChars
+ 2017-12-28 11:28:55,393 [P9068/D5/T291] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'charming' with Id '1152' has been published.
+ 2017-12-28 11:28:59,804 [P9068/D5/T291] INFO  umbraco.content - Save Xml to file...
+ 2017-12-28 11:28:59,810 [P9068/D5/T291] INFO  umbraco.content - Saved Xml to file.
+ 2017-12-28 11:29:00,670 [P9068/D5/T290] WARN  Umbraco.Web.UmbracoModule - Status code is 404 yet TrySkipIisCustomErrors is false - IIS will take over.
+ 2017-12-28 11:29:08,728 [P9068/D5/T35] WARN  Umbraco.Web.Mvc.RenderRouteHandler - The current Document Type home matches a locally declared controller of type Umbraco_Charming.Controllers.HomeController. Custom Controllers for Umbraco routing must implement 'Umbraco.Web.Mvc.IRenderController' and inherit from 'System.Web.Mvc.ControllerBase'.
+ 2017-12-28 11:29:41,518 [P9068/D5/T35] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'sentence' with Id '1151' has been published.
+ 2017-12-28 11:29:46,297 [P9068/D5/T283] INFO  umbraco.content - Save Xml to file...
+ 2017-12-28 11:29:46,303 [P9068/D5/T283] INFO  umbraco.content - Saved Xml to file.
+ 2017-12-28 11:29:47,547 [P9068/D5/T290] WARN  Umbraco.Web.UmbracoModule - Status code is 404 yet TrySkipIisCustomErrors is false - IIS will take over.
+ 2017-12-28 11:29:59,617 [P9068/D5/T95] INFO  Umbraco.Core.Publishing.PublishingStrategy - Content 'Home' with Id '1147' has been published.
+ 2017-12-28 11:30:04,126 [P9068/D5/T95] INFO  umbraco.content - Save Xml to file...
+ 2017-12-28 11:30:04,132 [P9068/D5/T95] INFO  umbraco.content - Saved Xml to file.
+ 2017-12-28 11:30:04,706 [P9068/D5/T282] WARN  Umbraco.Web.Mvc.RenderRouteHandler - The current Document Type home matches a locally declared controller of type Umbraco_Charming.Controllers.HomeController. Custom Controllers for Umbraco routing must implement 'Umbraco.Web.Mvc.IRenderController' and inherit from 'System.Web.Mvc.ControllerBase'.
